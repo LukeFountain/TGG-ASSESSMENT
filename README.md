@@ -16,6 +16,6 @@
 
 Simple dynamic map of Portland, OR with a few preset markers that populate the neighborhood name and boundary using the https://www.portlandmaps.com/arcgis/ API and the @arcgis/core module.
 
-select an address from the dropdown menu to see the neighborhood name and boundary.
+Select an address from the dropdown menu to see the neighborhood name and boundary.
 
-refer to code comment for additional context
+Refer to code comments for additional context
