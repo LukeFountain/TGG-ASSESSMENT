@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.webmap {
+  padding: 0;
+  margin: 0;
+  height: 700px;
+  width: 60vw;
+  margin: 0 auto;
+  border: 3px solid black;
+  border-radius: 5px;
+}
